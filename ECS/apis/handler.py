@@ -13,7 +13,7 @@ logger = IQMLogger(log_group_name=__loggroup_name__, log_stream_name=__module_na
                    version=__version__)
 
 
-def geo_aggregator_processing_trigger(YOUR_PARAMS):
+def function_name(YOUR_PARAMS):
     '''
     General function to trigger to run ECS task
     '''
