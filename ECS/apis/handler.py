@@ -17,7 +17,7 @@ def function_name(YOUR_PARAMS):
     '''
     General function to trigger to run ECS task
     '''
-    cfg = get_config_object('config/main.config', mode)
+    cfg = get_config_object('config/config_name.config', mode)
 
     config_path = cfg['PATH_OF_CORE_CONFIG']
 
