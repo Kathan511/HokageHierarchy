@@ -1,6 +1,6 @@
 __version__ = "0.0.0"
 __author__ = ""
-__copyright__ = "Copyright 2024, IQM"
+__copyright__ = "Copyright 2025, IQM"
 __maintainer__ = ""
 __email__ = ""
 __status__ = "Development"
